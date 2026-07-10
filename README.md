@@ -1,4 +1,6 @@
-### David Veksler
+# David Veksler — Applied AI / Principal AI Engineer
+
+**Frontier-model deployment · AI governance & observability · agentic engineering · regulated fintech**
 
 I get frontier models into production in places where the regulatory and security bar is high. Anyone can demo an agent. The hard part is the substrate underneath: review gates, observability, permission boundaries, and a hard rule that AI never touches the system of record.
 
