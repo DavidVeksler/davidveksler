@@ -1,4 +1,4 @@
-# David Veksler — Applied AI / Principal AI Engineer
+# David Veksler: Applied AI / Principal AI Engineer
 
 **Frontier-model deployment · AI governance & observability · agentic engineering · regulated fintech**
 
